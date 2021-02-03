@@ -1,0 +1,51 @@
+.guitarra {
+background-image: url("guitarra.jpg");
+background-size: 1000px 500px;
+width: 1000px;
+height: 500px;
+position: relative;
+
+}
+.guitarra hr{
+    cursor: pointer
+}
+.guitarra hr:hover{
+    background-color: red;
+    border-color: red;
+}
+.cuerda6{
+    width: 700px;
+    position: absolute;
+    top:195px;
+    left:130px
+}
+.cuerda5{
+    width: 700px;
+    position: absolute;
+    top:205px;
+    left:130px
+}
+.cuerda4{
+    width: 700px;
+    position: absolute;
+    top:215px;
+    left:130px
+}
+.cuerda3{
+    width: 700px;
+    position: absolute;
+    top:225px;
+    left:130px
+}
+.cuerda2{
+    width: 700px;
+    position: absolute;
+    top:235px;
+    left:130px
+}
+.cuerda1{
+    width: 700px;
+    position: absolute;
+    top:245px;
+    left:130px
+}
